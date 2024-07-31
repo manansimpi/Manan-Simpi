@@ -49,9 +49,19 @@ My journey in computer science has sparked a strong passion for cybersecurity, a
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-ISC2%20CC-007ACC?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<a href="https://www.credly.com/badges/25cf364d-ceb9-479e-a065-f78f05927723/public_url">
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+ Badge"/>
+</a>
+
+<a href="https://www.credly.com/badges/47c59a46-863b-485e-b0f0-25ec159a21aa/public_url">
+    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+
+
+<a href="https://www.credly.com/badges/0363ff89-39d3-48cf-8b04-1a4aab205804/public_url">
+   <img src="https://img.shields.io/badge/-ISC2%20CC-007ACC?&style=for-the-badge&logo=ISC2&logoColor=white" />
+</a>
+
 
 </div>
 
