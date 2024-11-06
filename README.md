@@ -10,7 +10,7 @@ I am a grad student with a profound interest in technology and a dedication to s
 
 ## Objective
 
-My journey in computer science has sparked a strong passion for cybersecurity, and I am now keen to transition into this field. My current goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has sparked a strong passion for cybersecurity, and I am now keen to transition into this field. My current goal is to join a Security Operations Center (SOC) as an Analyst.
 
 ## Skills
 
