@@ -24,7 +24,7 @@ My journey in computer science has sparked a strong passion for cybersecurity, a
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
